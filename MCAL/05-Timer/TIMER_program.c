@@ -1,7 +1,9 @@
-#include "TIMER_config.h"
+#include "..\..\LIB/01-STD_TYPES\STD_TYPES.h"
+#include "..\..\LIB/01-STD_TYPES\BIT_MATH.h"
 #include "TIMER_interface.h"
-#include "TIMER_private.h"
 #include "TIMER_register.h"
+#include "TIMER_private.h"
+#include "TIMER_config.h"
 
 
 
